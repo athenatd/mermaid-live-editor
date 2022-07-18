@@ -15,7 +15,7 @@ export const initAnalytics = async (): Promise<void> => {
 				plugins: [
 					// eslint-disable-next-line @typescript-eslint/no-unsafe-call, @typescript-eslint/no-unsafe-member-access
 					googleAnalytics.init({
-						trackingId: 'UA-153180559-1'
+						trackingId: 'UA-157547616-1'
 					})
 				]
 			});
